@@ -17,9 +17,9 @@ Running code:
 -Whenever the game is ended(only by entering 0 at the "continue or stop" prompt), there will be a table printed out on the command prompt including all of the previous attempts sorted by scores from highest to lowest by using tabulate module.  
 -No one can get a perfect score since one number cannot has all the traits.  
 
-Testing Code:
+Testing Code:  
 -There will be a test_project.py file that contains tests for prime, perfect, square, and consecutively arranged numbers
 
-pip installable library used:
--tabulate: to print the table at the end of the code
+pip installable library used:  
+-tabulate: to print the table at the end of the code  
 -validators: to fully validate the user's email
