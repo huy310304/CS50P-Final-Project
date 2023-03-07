@@ -2,10 +2,10 @@
 #### Video Demo:  https://www.youtube.com/watch?v=ezhuq74t8P8
 #### Description:
 File Description:  
-In project.py is the code for my project which tests the uiqueness of users'number and calculate their total score.  
-In test_project.py is the my number test functions.  
-In result.csv will be the storage of user's information and their total score.  
-In requirement.txt is the pip-installable library that I used.  
+  -In project.py is the code for my project which tests the uiqueness of users'number and calculate their total score.  
+  -In test_project.py is the my number test functions.  
+  -In result.csv will be the storage of user's information and their total score.  
+  -In requirement.txt is the pip-installable library that I used.  
 
 Running code:
 -The game is about testing a number to see if it has unique traits(prime, square, perfect, ...) or not.
