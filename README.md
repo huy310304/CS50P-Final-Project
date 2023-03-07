@@ -1,5 +1,5 @@
-# CS50P-Final-Project
-CS50P Final Project - Number Tests Game
+# CS50P Final Project
+Number Tests Game
 
 Video Demo: https://www.youtube.com/watch?v=ezhuq74t8P8
 Description:
