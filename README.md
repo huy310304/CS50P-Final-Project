@@ -1,5 +1,4 @@
 # NUMBER TESTS GAME
-#### Video Demo:  https://www.youtube.com/watch?v=ezhuq74t8P8
 #### Description:
 File Description:  
 - In project.py is the code for my project which tests the uiqueness of users'number and calculate their total score.  
