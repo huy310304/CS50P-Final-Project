@@ -31,8 +31,5 @@ After starting the game, users can:
 - **User Experience:** Personalized gameplay with profile management.
 
 ## Demo
-A demo video or screenshots will be added here to guide users through:
-- The registration and login process.
-- Gameplay experience.
-- Leaderboard interaction.
+Add demo
 - [Demo Video/Screenshots Link] 
