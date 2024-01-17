@@ -1,6 +1,8 @@
 # Add dashboard and login/register stuff
 # Validate email and password
 
+# TODO: add logout feature
+
 import validators
 import csv
 import re
@@ -360,8 +362,23 @@ class Dashboard:
         match option:
 
             case "1": # Display Instructions
-                print("Instruction: TODO ")
-                print("...")
+                print("Welcome to the number test game!")
+                print("The game is pretty simple, all you need to do is choose a number, and for each unique traits your number have, you get 1 point.")
+                print()
+                print("All of the number's unique traits are list here:")
+                print("1. Prime number: A number that is divisible only by itself and 1. It must be greater than 1.")
+                print("2. Perfect Number: A number that is equal to the sum of its proper divisors (excluding itself).")
+                print("3. Sum of All Square Digits: A number whose sum of the squares of its digits equals the number itself.")
+                print("4. Harshad Number: A number that is divisible by the sum of its digits.")
+                print("5. Consecutive Rearrange: A number whose unique digits can be rearranged to form a sequence of consecutive numbers.")
+                print("6. Square Number: A number that is the square of an integer.")
+                print("7. Erimp Number: A prime number that remains prime when its digits are reversed.")
+                print("8. Strong Number: A number that is divisible by a prime number and the square of that prime number.")
+                print("9. Happy Number: A number which eventually reaches 1 when replaced by the sum of the square of each digit.")
+                print()
+                print("Note that if you are using the default test account, your score will not be display in the leaderboard.")
+                ...
+                print()
                 input("Press any key to get back to the menu: ")
 
             case "2": # Play
