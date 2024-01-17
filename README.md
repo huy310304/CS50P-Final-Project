@@ -1,13 +1,7 @@
 # Number Test Game
 
 ## Project Description
-The Number Test Game is an engaging Python-based game that allows users to discover fascinating properties of numbers while competing on a leaderboard. It integrates mathematical exploration with gaming fun, perfect for users of all ages and backgrounds. The game features user authentication, interactive gameplay, a dynamic scoring system, and a leaderboard. It aims to make learning about numbers engaging and competitive.
-
-## Table of Contents
-1. Installation
-2. Usage
-3. Features
-4. Demo
+A Python written game played using Command Line Interface. The game ask the user for a positive number, and return the corresponding score of how many traits that a number has. Other feature including saving user information and account as well as displaying the current leaderboard. 
 
 ## Installation
 **Prerequisites:** Python 3.x
@@ -16,11 +10,12 @@ The Number Test Game is an engaging Python-based game that allows users to disco
 3. Run the game: `python project_v3.py`
 
 ## Usage
-After starting the game, users can:
-- Register or log in to an account.
-- Choose numbers and receive feedback on their properties.
-- View the leaderboard.
-- Explore number properties in a quick check mode.
+After starting the game, users can choose an option:
+1. View Instructions.
+2. Register or log in to an account to play.
+3. Display the leaderboard.
+4. Explore number properties in a quick check mode.
+5. Exit
 
 ## Features
 - **User Authentication:** Secure registration and login.
@@ -28,7 +23,7 @@ After starting the game, users can:
 - **Scoring System:** Points awarded based on number uniqueness.
 - **Leaderboard:** View rankings and compete with others.
 - **Data Management:** Efficient handling of user data using CSV files.
-- **User Experience:** Personalized gameplay with profile management.
+- **User Experience:** Personalized gameplay with profile management. 
 
 ## Demo
 Add demo
