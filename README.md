@@ -14,8 +14,8 @@ The Number Test Game is an engaging Python-based game that allows users to disco
 
 **Steps:**
 1. Clone the repository: `git clone [https://github.com/huy310304/CS50P-final-project]`
-2. Navigate to the directory: `cd number_test_game`
-3. Run the game: `python number_test_game.py`
+2. Navigate to the directory: `cd number-test-game`
+3. Run the game: `python project_v3.py`
 
 ## Usage
 After starting the game, users can:
