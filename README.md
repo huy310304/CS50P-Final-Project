@@ -28,9 +28,6 @@ pip installable library used:
 
 # Number Test Game
 
-## Project's Title
-Number Test Game
-
 ## Project Description
 The Number Test Game is an engaging Python-based game that allows users to discover fascinating properties of numbers while competing on a leaderboard. It integrates mathematical exploration with gaming fun, perfect for users of all ages and backgrounds. The game features user authentication, interactive gameplay, a dynamic scoring system, and a leaderboard. It aims to make learning about numbers engaging and competitive.
 
