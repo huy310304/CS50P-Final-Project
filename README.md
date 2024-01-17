@@ -3,6 +3,11 @@
 ## Project Description
 A Python-based game, the Number Test Game is played through the Command Line Interface. In this game, players input a positive number, and the game evaluates and returns a score based on the number's unique traits. Additional features include the ability to save user information and accounts, along with displaying an up-to-date leaderboard to track top players' standings.
 
+## Update
+- project.py: CS50P Final Project
+- project_v2.py: Organize code into OOP for Python practicing
+- project_v3.py: Most updated file with Dashboard and login/register features
+
 ## Installation
 **Prerequisites:** Python 3.x
 1. Clone the repository: `git clone [https://github.com/huy310304/CS50P-final-project]`
