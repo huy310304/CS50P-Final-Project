@@ -7,6 +7,7 @@ A Python-based game, the Number Test Game is played through the Command Line Int
 - project.py: CS50P Final Project
 - project_v2.py: Organize code into OOP for Python practicing
 - project_v3.py: Most updated file with Dashboard and login/register features
+- TODO: Add logout feature
 
 ## Installation
 **Prerequisites:** Python 3.x
