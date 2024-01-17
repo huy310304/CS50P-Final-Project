@@ -1,7 +1,7 @@
 # Number Test Game
 
 ## Project Description
-A Python written game played using Command Line Interface. The game ask the user for a positive number, and return the corresponding score of how many traits that a number has. Other feature including saving user information and account as well as displaying the current leaderboard. 
+A Python-based game, the Number Test Game is played through the Command Line Interface. In this game, players input a positive number, and the game evaluates and returns a score based on the number's unique traits. Additional features include the ability to save user information and accounts, along with displaying an up-to-date leaderboard to track top players' standings.
 
 ## Installation
 **Prerequisites:** Python 3.x
