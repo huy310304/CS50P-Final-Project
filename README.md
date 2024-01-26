@@ -32,5 +32,5 @@ After starting the game, users can choose an option:
 - **User Experience:** Personalized gameplay with profile management. 
 
 ## Demo
-Add demo
-- [Demo Video/Screenshots Link] 
+- Add demo later
+
