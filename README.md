@@ -1,36 +1,35 @@
 # Number Test Game
 
 ## Project Description
-A Python-based game, the Number Test Game is played through the Command Line Interface. In this game, players input a positive number, and the game evaluates and returns a score based on the number's unique traits. Additional features include the ability to save user information and accounts, along with displaying an up-to-date leaderboard to track top players' standings.
+The Number Test Game is a command-line Python game where players input positive numbers to receive scores based on unique traits. It features user account management and a leaderboard to track top scores.
 
-## Update
-- `project.py`: CS50P Final Project
-- `project_v2.py`: Organize code into OOP for Python practicing
-- `project_v3.py`: Most updated file with Dashboard and login/register features
-- TODO: Add logout feature
+## Updates
+- `project.py`: Initial CS50P Final Project version.
+- `project_v2.py`: Refactored using Object-Oriented Programming (OOP) principles for enhanced Python practice.
+- `project_v3.py`: Latest version, introducing a Dashboard along with login and registration features.
+- **TODO:** Implement a logout feature.
 
 ## Installation
 **Prerequisites:** Python 3.x
-1. Clone the repository: `git clone [https://github.com/huy310304/CS50P-final-project]`
-2. Navigate to the directory: `cd number-test-game`
-3. Run the game: `python project_v3.py`
+1. Clone the repository: `git clone [Repository URL]`
+2. Navigate to the game directory: `cd number-test-game`
+3. Launch the game: `python project_v3.py`
 
 ## Usage
-After starting the game, users can choose an option:
-1. View Instructions.
-2. Register or log in to an account to play.
-3. Display the leaderboard.
-4. Explore number properties in a quick check mode.
-5. Exit
+Upon launching the game, users can:
+1. Review game instructions.
+2. Register or log in to access the full game.
+3. View the leaderboard.
+4. Use quick check mode to explore number properties without logging in.
+5. Exit the game.
 
 ## Features
-- **User Authentication:** Secure registration and login.
-- **Interactive Gameplay:** Users choose numbers and learn about their properties.
-- **Scoring System:** Points awarded based on number uniqueness.
-- **Leaderboard:** View rankings and compete with others.
-- **Data Management:** Efficient handling of user data using CSV files.
-- **User Experience:** Personalized gameplay with profile management. 
+- **User Authentication:** Provides secure registration and login processes.
+- **Interactive Gameplay:** Engages users with number selection and insights into their properties.
+- **Scoring System:** Awards points for the uniqueness of chosen numbers.
+- **Leaderboard:** Displays current rankings for competitive play.
+- **Data Management:** Utilizes CSV files for efficient user data storage.
+- **User Experience:** Offers personalized gameplay through profile management.
 
 ## Demo
-- Add demo later
-
+- Demo details will be added later.
