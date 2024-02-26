@@ -8,6 +8,7 @@ The Number Test Game is a command-line Python game where players input positive 
 - `project_v2.py`: Refactored using Object-Oriented Programming (OOP) principles for enhanced Python practice.
 - `project_v3.py`: Latest version, introducing a Dashboard along with login and registration features.
 - **TODO:** Implement a logout feature.
+- **TODO:** Add UI with pygame
 
 ## Installation
 **Prerequisites:** Python 3.x
