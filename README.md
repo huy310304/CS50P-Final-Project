@@ -12,7 +12,7 @@ The Number Test Game is a command-line Python game where players input positive 
 
 ## Installation
 **Prerequisites:** Python 3.x
-1. Clone the repository: `git clone [Repository URL]`
+1. Clone the repository: `git clone https://github.com/huy310304/number-test-game.git`
 2. Navigate to the game directory: `cd number-test-game`
 3. Launch the game: `python project_v3.py`
 
