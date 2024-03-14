@@ -7,7 +7,7 @@ The Number Test Game is a command-line Python game where players input positive 
 - `project.py`: Initial CS50P Final Project version.
 - `project_v2.py`: Refactored using Object-Oriented Programming (OOP) principles for enhanced Python practice.
 - `project_v3.py`: Latest version, introducing a Dashboard along with login and registration features.
-- `game.py`: Simple visulization of the game using `tkinter`, including login/registration features and number game play.
+- `game.py`: Simple visulization of the game using `tkinter`, including login/registration features and game play.
 
 ## Demo (game.py with tkinter)
 | ![Label 1](https://github.com/huy310304/number-test-game/assets/114793725/793feb44-fedb-4de6-bf12-50874b2b9c72) | ![Label 2](https://github.com/huy310304/number-test-game/assets/114793725/94360dff-4ba0-4602-8276-89998b2a3016) | 
